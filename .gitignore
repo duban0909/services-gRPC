@@ -1,0 +1,6 @@
+.vscode/
+venv/
+marketplace/__pycache__
+recommendations/__pycache__
+
+
